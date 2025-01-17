@@ -1,0 +1,30 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="LingomateLogo">
+    <!-- Outer Speech Bubble -->
+    <path id="SpeechBubbleOutline" 
+      d="M24 0C10.745 0 0 10.745 0 24C0 37.255 10.745 48 24 48C37.255 48 48 37.255 48 24C48 10.745 37.255 0 24 0Z" 
+      fill="#4CAF50" />
+
+    <!-- Globe Lines -->
+    <path id="GlobeLines" 
+      d="M12 24C12 18 18 12 24 12C30 12 36 18 36 24C36 30 30 36 24 36C18 36 12 30 12 24ZM24 14C27.866 14 31 17.134 31 21C31 24.866 27.866 28 24 28C20.134 28 17 24.866 17 21C17 17.134 20.134 14 24 14Z" 
+      fill="#FFFFFF" />
+
+    <!-- Dots and Decorations -->
+    <circle cx="18" cy="20" r="2" fill="#FF5722" />
+    <circle cx="30" cy="28" r="2" fill="#03A9F4" />
+    <circle cx="24" cy="18" r="1.5" fill="#8BC34A" />
+
+    <!-- Text Lingomate -->
+    <text id="LingomateText" 
+      x="50%" 
+      y="42" 
+      text-anchor="middle" 
+      fill="#FFFFFF" 
+      font-size="6" 
+      font-family="Arial, sans-serif" 
+      font-weight="bold">
+      Lingomate
+    </text>
+  </g>
+</svg>
